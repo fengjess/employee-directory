@@ -1,0 +1,18 @@
+.card-btn {
+  width: 100%;
+  position: relative;
+  border: none;
+  bottom: 10%;
+  background-color: #ffffff;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: monospace;
+  outline: none;
+  text-align: left;
+}
+
+.row {
+  border: 2px;
+  border-color: black;
+  background-color: #ffffff;
+}

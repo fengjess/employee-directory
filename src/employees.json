@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Emma Rowell",
+    "image": "https://consmagic.com/wp-content/uploads/2019/01/random-user-31.jpg",
+    "phone": "219-401-1493",
+    "email": "emmarowell@gmail.com",
+    "dob": "04-11-1985"
+  },
+  {
+    "id": 2,
+    "name": "Ken Fowler",
+    "image": "https://i.pinimg.com/originals/a2/de/39/a2de3954697c636276192afea0a6f661.jpg",
+    "phone": "220-184-1048",
+    "email": "k.fowler@gmail.com",
+    "dob": "11-29-1965"
+  },
+  {
+    "id": 3,
+    "name": "Timothy Smith",
+    "image": "https://i.pinimg.com/originals/78/07/03/78070395106fcd1c3e66e3b3810568bb.jpg",
+    "phone": "425-183-2917",
+    "email": "timsmith@gmail.com",
+    "dob": "08-12-1988"
+  },
+  {
+    "id": 4,
+    "name": "Stephanie Bennett",
+    "image": "https://thenewcode.com/assets/images/thumbnails/sarah-parmenter.jpeg",
+    "phone": "253-283-9812",
+    "email": "stephbennett@gmail.com",
+    "dob": "07-21-1998"
+  },
+  {
+    "id": 5,
+    "name": "Kelly Tanner",
+    "image": "https://www.sandrashealinghands.com/images/9824063B-2CEF-4C1D-87A5-C33A2792B4FB.png",
+    "phone": "352-104-1749",
+    "email": "kellytanner@gmail.com",
+    "dob": "02-13-1990"
+  }
+]
